@@ -1,0 +1,3 @@
+(gradiant color)
+expo install expo-linear-gradient
+---------------------------------
